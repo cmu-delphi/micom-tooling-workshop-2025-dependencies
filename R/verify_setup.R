@@ -1,3 +1,4 @@
+#' @importFrom tibble tibble
 required_pkgs <- tibble::tribble(
   ~ package, ~ op, ~ req_version,
   "cowplot", NA, NA,
