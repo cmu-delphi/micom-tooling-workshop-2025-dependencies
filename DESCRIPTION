@@ -23,7 +23,7 @@ Suggests:
     cowplot,
     epidatasets (>= 0.0.1),
     epidatr (>= 1.2.0),
-    epipredict (== 0.1.0),
+    epipredict (== 0.1.5),
     epiprocess (== 0.9.6),
     glmnet,
     here,
@@ -38,7 +38,7 @@ Suggests:
     zoo
 Remotes: 
     cmu-delphi/epidatasets,
-    cmu-delphi/epipredict@main,
+    cmu-delphi/epipredict@dev,
     cmu-delphi/epiprocess@main
 Encoding: UTF-8
 LazyData: true

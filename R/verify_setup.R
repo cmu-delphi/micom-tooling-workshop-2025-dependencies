@@ -4,7 +4,7 @@ required_pkgs <- tibble::tribble(
   "cowplot", NA, NA,
   "epidatasets", ">=", "0.0.1",
   "epidatr", ">=", "1.2.0",
-  "epipredict", "==", "0.1.0",
+  "epipredict", "==", "0.1.5",
   "epiprocess", "==", "0.9.6",
   "glmnet", NA, NA,
   "here", NA, NA,
