@@ -39,7 +39,7 @@ Suggests:
 Remotes: 
     cmu-delphi/epidatasets,
     cmu-delphi/epipredict@dev,
-    cmu-delphi/epiprocess@main
+    cmu-delphi/epiprocess@dev
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
