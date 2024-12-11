@@ -1,7 +1,7 @@
 Type: Package
 Package: InsightNetFcast24
 Title: Ensures all necessary packages are installed
-Version: 1.0.0
+Version: 1.0.1
 Authors@R: c(
     person("Daniel J.", "McDonald", , "daniel@stat.ubc.ca", role = c("aut", "cre")),
     person("Ryan", "Tibshirani", , "ryantibs@cmu.edu", role = "aut"),
@@ -24,7 +24,7 @@ Suggests:
     epidatasets (>= 0.0.1),
     epidatr (>= 1.2.0),
     epipredict (== 0.1.5),
-    epiprocess (== 0.9.6),
+    epiprocess (== 0.10.0),
     glmnet,
     here,
     httr,
@@ -39,7 +39,7 @@ Suggests:
 Remotes: 
     cmu-delphi/epidatasets,
     cmu-delphi/epipredict@dev,
-    cmu-delphi/epiprocess@dev
+    cmu-delphi/epiprocess@main
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
